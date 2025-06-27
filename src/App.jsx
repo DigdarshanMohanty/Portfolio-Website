@@ -11,7 +11,7 @@ import Projects from "./components/Projects";
 
 export default function App() {
   return (
-    <div className="relative z-0 font-mono transition-colors duration-300 bg-white text-black dark:bg-[#0d0d0d] dark:text-white">
+    <div className="relative z-0 font-mono transition-colors duration-300 text-black dark:bg-[#0d0d0d] dark:text-white">
       <ParticleBackground /> {/* This should be just inside the root */}
       <Router>
         <Navbar />
