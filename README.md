@@ -1,13 +1,39 @@
-# React + Vite
+# 🚀 Digdarshan's Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal developer portfolio — built with React, TailwindCSS, and animated with GSAP, Framer Motion, and tsParticles. This portfolio is a reflection of my journey as a full-stack web developer.
 
-Currently, two official plugins are available:
+Live Site 🌐: [https://yourdomain.com](https://yourdomain.com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧩 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Portfolio-Website
+- 🔥 Dark/Light Mode toggle
+- 🧠 Typing animation using `react-simple-typewriter`
+- 🛸 Floating constellation particles background via `tsParticles`
+- 🪄 Smooth scroll-based reveal animations with `framer-motion`
+- 🧱 Timeline-based Project Showcase
+- 💼 Blog section linking to Hashnode
+- 📬 Contact section with social links (GitHub, LinkedIn, X, Email)
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend        | UI/UX Enhancers | Tools/Other           |
+|-----------------|------------------|------------------------|
+| React           | Tailwind CSS     | React Router DOM       |
+| Vite            | Framer Motion    | tsParticles            |
+| JavaScript (ES6)| Typewriter Effect| Font Awesome / React Icons |
+
+---
+
+## 🔧 Run Locally
+
+Clone the project and install dependencies:
+
+```bash
+git clone https://github.com/DigdarshanMohanty/portfolio.git
+cd portfolio
+npm install
+npm run dev
