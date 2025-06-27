@@ -8,13 +8,12 @@ Live Site 🌐: [https://yourdomain.com](https://yourdomain.com)
 
 ##  Features
 
-- 🔥 Dark/Light Mode toggle
-- 🧠 Typing animation using `react-simple-typewriter`
-- 🛸 Floating constellation particles background via `tsParticles`
-- 🪄 Smooth scroll-based reveal animations with `framer-motion`
-- 🧱 Timeline-based Project Showcase
-- 💼 Blog section linking to Hashnode
-- 📬 Contact section with social links (GitHub, LinkedIn, X, Email)
+-  Typing animation using `react-simple-typewriter`
+-  Floating constellation particles background via `tsParticles`
+-  Smooth scroll-based reveal animations with `framer-motion`
+-  Timeline-based Project Showcase
+-  Blog section linking to Hashnode
+-  Contact section with social links (GitHub, LinkedIn, X, Email)
 
 ---
 
