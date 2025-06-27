@@ -52,7 +52,7 @@ export default function Projects() {
   return (
     <section
         id="projects"
-        className="relative px-6 text-white font-mono bg-transparent dark:bg-transparent"
+        className="relative px-6 text-white font-mono bg-transparent dark:bg-transparent min-h-screen py-16"
       >
       <h2 className="text-4xl font-bold mb-16 text-center underline underline-offset-8 decoration-amber-500">
         Projects Timeline

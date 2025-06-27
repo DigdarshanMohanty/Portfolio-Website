@@ -1,11 +1,11 @@
-import { FaGithub, FaLinkedin, FaEnvelope , FaMugHot} from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaEnvelope, FaMugHot } from "react-icons/fa";
 import { SiX } from "react-icons/si";
 import { Typewriter } from "react-simple-typewriter";
 
 export default function Home() {
   return (
-    <section className="flex flex-col justify-center items-center text-white px-6 font-mono w-full">
-      <div className="text-center flex flex-col items-center gap-10 sm:mb-10 md:mb-15 lg:mb-20">
+    <section className="relative z-10 flex flex-col justify-center items-center text-white px-6 font-mono h-full py-10">
+      <div className="text-center flex flex-col items-center gap-10 mb-12">
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight leading-tight">
           Hey, I'm&nbsp;
           <span className="text-yellow-400">
@@ -15,7 +15,7 @@ export default function Home() {
                 "a Web Developer",
                 "a Backend Developer",
                 "a Curious Learner",
-                "Digdarshan Mohanty", 
+                "Digdarshan Mohanty",
               ]}
               loop={1}
               cursor
@@ -27,13 +27,15 @@ export default function Home() {
           </span>
         </h1>
 
-         <p className="text-md sm:text-lg text-gray-300 max-w-2xl mx-auto mt-4 leading-relaxed">Code is like humor<br/>When you have to explain it, it's bad
-         <FaMugHot className="inline text-orange-400 ml-4 mb-1.5" /> 
-         </p>
-         
+        <p className="text-md sm:text-lg text-gray-300 max-w-2xl mx-auto mt-4 leading-relaxed">
+          Code is like humor
+          <br />
+          When you have to explain it, it's bad
+          <FaMugHot className="inline text-orange-400 ml-4 mb-1" />
+        </p>
       </div>
 
-      <div className="px-6 sm:px-12 w-full max-w-2xl text-center py-5">
+      <div className="px-6 sm:px-12 py-10 w-full max-w-2xl text-center">
         <h2 className="text-2xl sm:text-3xl font-bold mb-6 underline underline-offset-8 decoration-[#65DEF1]">
           Connect with Me
         </h2>

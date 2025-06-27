@@ -20,7 +20,7 @@ access, and private path routing.`,
 
   return (
     <>
-      <main className="max-w-6xl mx-auto px-4 font-mono text-white h-full ">
+      <main className="max-w-6xl mx-auto px-4 font-mono text-white min-h-screen">
         <div className="flex flex-col md:flex-row gap-12">
           
           {/* About Section */}
