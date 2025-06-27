@@ -1,4 +1,4 @@
-# 🚀 Digdarshan's Developer Portfolio
+#  Digdarshan's Developer Portfolio
 
 Welcome to my personal developer portfolio — built with React, TailwindCSS, and animated with GSAP, Framer Motion, and tsParticles. This portfolio is a reflection of my journey as a full-stack web developer.
 
@@ -6,7 +6,7 @@ Live Site 🌐: [https://yourdomain.com](https://yourdomain.com)
 
 ---
 
-## 🧩 Features
+##  Features
 
 - 🔥 Dark/Light Mode toggle
 - 🧠 Typing animation using `react-simple-typewriter`
@@ -18,7 +18,7 @@ Live Site 🌐: [https://yourdomain.com](https://yourdomain.com)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Frontend        | UI/UX Enhancers | Tools/Other           |
 |-----------------|------------------|------------------------|
@@ -28,7 +28,7 @@ Live Site 🌐: [https://yourdomain.com](https://yourdomain.com)
 
 ---
 
-## 🔧 Run Locally
+##  Run Locally
 
 Clone the project and install dependencies:
 
