@@ -1,6 +1,6 @@
 import ParticleBackground from "./components/ParticleBackground";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import ThemeToggle from "./components/shared/Themetoggle";
+// import ThemeToggle from "./components/shared/Themetoggle";
 import Navbar from "./components/shared/Navbar";
 import Home from "./components/Home";
 import About from "./components/About";
