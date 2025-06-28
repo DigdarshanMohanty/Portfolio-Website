@@ -4,7 +4,7 @@ import { Typewriter } from "react-simple-typewriter";
 
 export default function Home() {
   return (
-    <section className="relative z-10 flex flex-col justify-center items-center text-white px-6 font-mono h-full py-10">
+    <section className="relative z-10 flex flex-col justify-center items-center text-white px-6 font-mono min-h-screen py-10">
       <div className="text-center flex flex-col items-center gap-10 mb-12">
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight leading-tight">
           Hey, I'm&nbsp;
@@ -31,11 +31,11 @@ export default function Home() {
           Code is like humor
           <br />
           When you have to explain it, it's bad
-          <FaMugHot className="inline text-orange-400 ml-4 mb-1" />
+          <FaMugHot className="inline text-orange-400 ml-4 mb-2" />
         </p>
       </div>
 
-      <div className="px-6 sm:px-12 py-10 w-full max-w-2xl text-center">
+      <div className="px-6 sm:px-12 py-10 w-full max-w-2xl text-center mb-10">
         <h2 className="text-2xl sm:text-3xl font-bold mb-6 underline underline-offset-8 decoration-[#65DEF1]">
           Connect with Me
         </h2>
