@@ -7,9 +7,12 @@ import About from "./components/About";
 import Blog from "./components/Blog";
 import Projects from "./components/Projects";
 
-// App.jsx
 
 export default function App() {
+  if (window.location.pathname !== "/home" && window.location.pathname !== "/") {
+    window.location.replace("/");
+    return null;
+  }
   return (
     <div className="relative z-0 font-mono transition-colors duration-300 text-black dark:bg-[#0d0d0d] dark:text-white">
       <ParticleBackground /> {/* This should be just inside the root */}
